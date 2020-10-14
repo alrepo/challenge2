@@ -1,0 +1,50 @@
+/* * {
+  box-sizing: border-box;
+} */
+.default{
+  display: inline-block;
+  height: 60px;
+  width: 180px;
+  border-radius: 10px;
+  background-color: white;
+  cursor: pointer;
+}
+.dim{
+  display: inline-block;
+  height: 60px;
+  width: 180px;
+  border-radius: 10px;
+  background-color: #000;
+  cursor: pointer;
+}
+
+.blueBorder{
+  border: solid 1px;
+  border-color: #0779e4;
+}
+.defaultBackground{
+  background-color: white;
+}
+.dimBackground{
+  background-color: black;
+}
+.circle{
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border: solid 1px;
+  border-color: grey;
+  background-color: white;
+  margin-right: 15px;
+  margin-left: auto;
+  margin-top: 20px;
+}
+img{
+  display: block;
+  margin-right: 15px;
+  margin-left: auto;
+  margin-top: 20px;
+}
+.hide{
+  display: none;
+}
